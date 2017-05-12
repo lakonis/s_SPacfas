@@ -13,6 +13,11 @@ _La publication savante en contexte numérique_ - ACFAS 2017
 
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
+===
+
+Bonjour à tous,
+
+Je vais vous présenter les réflexions en cours à la chaire sur les écritures numériques, sur ce chantier à première vue très banale de la fabrique d'une revue en ligne, qui elle ne l'est pas.
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 ### Sommaire
@@ -24,9 +29,8 @@ _La publication savante en contexte numérique_ - ACFAS 2017
 
 ===
 
-Bonjour à tous, je remercie bien évidemment les deux autres organisateurs.
 
-Je vais vous présenter les réflexions en cours à la chaire sur les écritures numériques, sur ce chantier à première vue très banale de la fabrique d'une revue en ligne, qui elle ne l'est pas. Bien entendu le chantier ne l'est pas non plus, c'est ce que je vais essayer de faire passer ici, en faisant d'abord quelques pas en arrière pour mieux sauter dans le sujet et dans les pistes que nous explorons.
+Bien entendu le chantier ne l'est pas non plus, c'est ce que je vais essayer de faire passer ici, en faisant d'abord quelques pas en arrière pour mieux sauter dans le sujet et dans les pistes que nous explorons.
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/senspublic.png" data-background-size="contain"-->
