@@ -1,20 +1,25 @@
-## Fabrique de la revue Sens Public :
-### la revue scientifique comme espace public
+### Fabrique de la revue _Sens Public_
+#### la revue scientifique comme espace public
 &nbsp;
 
-Nicolas Sauret ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+Nicolas Sauret
 
-ACFAS 2017 - Congress 2017  
-<small>12 mai 2017</small>
+<!-- .element: style="font-size:1.5rem" -->
 
+_La publication savante en contexte numérique_ - ACFAS 2017  
+12-05-2017
+
+<!-- .element: style="font-size:1.5rem" -->
+
+![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 ### Sommaire
 
-1. Un constat
-* Des opportunités
-* Des pistes pour Sens Public
+1. Constats
+* Opportunités
+* Fabrique de _Sens Public_
 * Design de la conversation scientifique
 
 ===
@@ -30,7 +35,7 @@ Je vais vous présenter les réflexions en cours à la chaire sur les écritures
 ===
 La revue Sens Public est ce qu'on appelle un pure player, c'est-à-dire qu'elle est née en ligne sur le web, autrement dit : nativement numérique. C'était en 2003.
 
-Le chantier actuel, presque 15 ans plus tard est donc ce qu'on appelle une refonte, c'est-à-dire qu'il s'agit d'un remaniement complet, tant sur le plan technique qu'éditorial, et de reconstruire la revue, et pourquoi pas en passant de repenser ce que pourrait être une revue scientifique en 2017.
+Le chantier actuel, presque 15 ans plus tard est donc ce qu'on appelle une refonte, c'est-à-dire qu'il s'agit d'un remaniement complet, tant sur le plan technique qu'éditorial. Il s'agit de reconstruire la revue, et pourquoi pas, en passant, de repenser ce que pourrait être une revue scientifique exploitant pleinement l'environnement numérique.
 
 §§§§§SLIDEmoveDown§§§§§
 
@@ -52,6 +57,7 @@ Ce chantier se fait **dans un contexte de crise** pour la communication scientif
 
 C'est l'ensemble du cycle de la recherche qui est touché aujourd'hui, la collecte des données, leurs analyses, la production de connaissances, leur diffusion. A chacune de ces étapes, le numérique, c'est-à-dire tout à la fois, le _processeur_ comme technologie de calcul, le _réseau_ comme technologie de communication, et _le web_ comme technologie de publication, ont suscité de nouvelles pratiques au sein des communautés savantes, **redistribuant les cartes** de l'agencement classique entre institutions, dispositifs et supports et mettant à mal le modèle épistémologique traditionnel.
 
+Nous nous intéresserons ici principalement à cette étape particulière du cycle qu'est la communication scientifique.
 
 <!-- En transformant radicalement le support d’inscription du savoir, le numérique transforme également les dispositifs d’écriture et de lecture, et dans le même temps suscitent de nouvelles pratiques au sein des communautés savantes.
 qui nous oblige à revisiter l’agencement classique entre institution, dispositif et support. -->
@@ -64,7 +70,6 @@ qui nous oblige à revisiter l’agencement classique entre institution, disposi
 
 ===
 
-Nous nous intéresserons ici principalement à cette étape particulière du cycle qu'est la communication scientifique.
 
 Il y a notamment deux constats à faire, deux constats problématiques pour l'institution académique :
 
@@ -103,9 +108,9 @@ En ce qui nous concerne, c'est surtout l'institution qui est en cause, puisqu'el
 
 ===
 
-Nous observons donc deux tendances liées d'une manière très paradoxale : l'asphyxie de la publication traditionnelle qui semble coincée dans des priorités différentes de sa mission première, et par ailleurs l'explosion des formes d'écritures, formes qui ne peuvent encore pleinement rentrer dans la sphère institutionnelle, puisqu'elles ne sont pas légitimées par l'institution.
+Nous observons donc deux tendances liées d'une manière très paradoxale : l'asphyxie de la publication traditionnelle qui semble coincée dans des priorités différentes de sa mission première, **et par ailleurs l'explosion des formes d'écritures**, formes qui ne peuvent encore pleinement rentrer dans la sphère institutionnelle, puisqu'elles ne sont pas légitimées par l'institution.
 
-On pourrait penser que la première victime de ce système est la conversation scientifique, pourtant c'est bien l'institution qui en pâtit le plus puisque la conversation, elle, se porte bien, mais hors de la sphère institutionnelle : les lieux et les formes de la controverse et du consensus échappent de plus en plus à cette institution.
+On pourrait penser que la première victime de ce système est la conversation scientifique, pourtant c'est bien l'institution qui en pâtit le plus puisque la conversation, elle, se porte bien, mais hors de la sphère institutionnelle : **les lieux et les formes de la controverse** et du consensus échappent de plus en plus à cette institution.
 
 <!-- intégrer le mot de Larivière (mardi 9 mai 2017) : la revue comme «vecteur de capital symbolique» -->
 
@@ -136,15 +141,16 @@ d'édition, de publication, de conversation ?
 
 Quelles sont les pistes et les opportunités que le numérique nous engage à saisir ?
 
-La transformation du support laisse entrevoir des modalités d'écriture, d'édition, d'évaluation, de publication, mais aussi de conversation qui nous permettent d'envisager l'élaboration d'un modèle épistémologique propre au numérique.
 
+Le support numérique présente des caractéristiques qui laissent entrevoir des modalités d'écriture, d'édition, d'évaluation, de publication, mais aussi de conversation.
 
 §§§§§SLIDEmoveDown§§§§§
 
   * évaluation ouverte, semi-ouverte et continue,
-  * édition continue
+  * édition continue, itérative
   * édition collaborative
   * enrichissement sémantique du texte
+  * support computationnel (Spiral + Voyants)
   * diversification des formes et des formats
   * élargissement de la communauté de savoir
   * porosité entre communautés
@@ -152,7 +158,11 @@ La transformation du support laisse entrevoir des modalités d'écriture, d'édi
 
 ===
 
-Je ne m'arrête pas sur toutes ces modalités, j'en liste ici quelques unes, qui ne sont d'ailleurs pas toutes sur le même plan, mais je voudrais surtout développer un point avant de rentrer dans le coeur de la proposition que nous faisons avec le site Sens Public.
+Ces modalités nouvelles nous permettent d'envisager l'élaboration d'un modèle épistémologique propre au support numérique.
+
+Les recherches de Geoffrey et les expérimentations d'outils d'écriture tels que Spiral vont exactement dans ce sens.
+
+Je ne m'arrête pas sur toutes ces modalités, j'en liste ici quelques unes, qui ne sont d'ailleurs pas toutes sur le même plan, mais à titre d'exemple, je voudrais développer un point qui est revenu plusieurs fois dans nos ateliers de travail, avant de rentrer dans le coeur de la proposition que nous faisons avec le site Sens Public.
 
 
 §§§§§SLIDEmoveDown§§§§§
@@ -165,7 +175,7 @@ Je ne m'arrête pas sur toutes ces modalités, j'en liste ici quelques unes, qui
 
 [v1.0](http://nicolassauret.net) <!-- .element: style="color:blue;" -->  
 [v1.1](http://nicolassauret.net) <!-- .element: style="color:blue;" -->  
-[v1.2](http://nicolassauret.net) <!-- .element: style="color:blue;" -->
+[v1.2_JCG](http://nicolassauret.net) <!-- .element: style="color:blue;" -->
 
  <!-- .element: class="fragment" data-fragment-index="2" style="font-size:1rem; color:red;" -->
 
@@ -173,7 +183,7 @@ Je ne m'arrête pas sur toutes ces modalités, j'en liste ici quelques unes, qui
 
 Une des propriété du support numérique, implémenté notamment dans le protocoles HTTP du web, est l'instabilité intrinsèque du texte numérique. Cela vient changer la nature même du texte et lui conférer une certaine liquidité.
 
-Une fois publié en ligne, un texte peut en effet toujours être modifié, amélioré, enrichi, soit par l'auteur du texte, mais aussi pourquoi pas par la communauté de lecteurs. L'environnement numérique nous permet bien d'éditer de manière continue les textes.
+Une fois publié en ligne, un texte peut en effet **toujours être modifié, amélioré**, enrichi, soit par l'auteur du texte, mais aussi pourquoi pas par la communauté de lecteurs. L'environnement numérique nous permet bien d'éditer de manière continue les textes.
 
 Ce changement de nature vient disrupter la notion de référence et tout le système bibliographique qui s’est mis en place pour l’institutionnaliser. Or cette référence et son institutionnalisation sont les conditions du partage d’un socle commun de connaissances au sein d’une communauté de savoir. La possibilité de s’y référer procure au texte stabilisé une autorité et une authenticité nécessaires à une réflexion commune.
 
@@ -191,7 +201,7 @@ Wikipédia en est l'exemple le plus évident, mais d'autres initiatives existent
 
 On saurait donc en théorie reconstruire un système bibliographique, c'est-à-dire un système solide de référence nécessaire au partage d'un socle commun de connaissance, et cela nous permet d'envisager un modèle épistémologoqie embrassant pleinement cette liquidité du texte.
 
-Dans cette phase de transition où les modèles papier et numérique cohabitent et s'hybrident, les choses ne sont pas si simples, et la stabilité du texte, même si celui-ci est mauvais, prime encore.
+Dans cette phase de transition où les modèles papier et numérique cohabitent et s'hybrident, les choses ne sont pas si simples, et la stabilité du texte, même si celui-ci est mauvais, prime encore, notamment pour des raisons institutionelles.
 
     <!-- _Une des propriétés du support numérique étant notamment l’instabilité intrinsèque du texte, peut-on envisager un modèle épistémologique embrassant pleinement la liquidité du texte, dont chaque version pourrait être stockée, tracée, publiée, discutée ?
 
@@ -248,7 +258,7 @@ La revue s'est créée sous l'impulsion de Gérard Wormser avec plusieurs horizo
 
 ici, je regrette un peu de ne pas avoir eu le temps de développer la réflexion sur l'espace public, je pense que ce sera pour une prochaine communication.
 
-Ces différents horizons sont en fait au service d'une seule et même : la communauté Sens Public. La revue est sa communauté.
+Ces différents horizons sont en fait au service d'une seule et même : la communauté Sens Public. COmmunauté que notre refonte souhaite remettre au centre de la revue.
 
 §§§§§SLIDEmoveDown§§§§§
 
@@ -258,14 +268,6 @@ Ces différents horizons sont en fait au service d'une seule et même : la commu
 
 Nous avons identifié 5 axes qu'il faut appréhender comme les éléments complémentaires d'un horizon de possibles pour la communauté de la revue.
 La plateforme SP doit permettre de lire, d'explorer, de discuter, de collectionner, de connecter.
-
-§§§§§SLIDEmoveDown§§§§§
-
-![5 axes + cercles](img/SP_axes_ProdCircAppr.png) <!-- .element: class="noborder" width="70%"-->
-
-===
-
-Si l'on essaie d'y appliquer de manière grossière ces trois processus : de production, de circulation et d'appropriation des connaissances, cela donne ça.
 
 
 §§§§§SLIDEmoveDown§§§§§
@@ -351,7 +353,7 @@ Il s'agit de mobiliser la communauté grâce à des moyens de sollicitations sp�
 
 
 §§§§§SLIDEmoveDown§§§§§
-### 2 facettes
+### 2 espaces
 
 | Documentaire | Conversationnel |
 | :-: |:-:  |
@@ -484,7 +486,7 @@ Je termine sur ces questions ouvertes qui mériteraient davantage un atelier de 
 
 ### Merci !
 
-à suivre sur [nicolassauret.net/carnets](http://nicolassauret.net/carnets) /  @nicolasauret
+à suivre sur [nicolassauret.net/carnets](http://nicolassauret.net/carnets)
 
 <!-- .element: class="petit" -->
 
