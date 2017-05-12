@@ -253,7 +253,7 @@ Dans le cadre de la chaire sur les écritures numériques, la démarche est donc
 La revue s'est créée sous l'impulsion de Gérard Wormser avec plusieurs horizons
 
 * la transdisciplinarité et approches hybrides
-* le multilinguisme et pluralité des langues, avec l'idée d'intégrer des voix et des opinions plus lointaines
+* le multilinguisme et pluralité des langues, avec l'idée de dépasser les territoires dont nous parlait Jean Claude Guédon, d'intégrer des voix et des opinions plus lointaines
 * une conscience et une réflexion sur les transformations de l'espace public, travaillé notamment par les supports d'écriture et de lecture numérique.
 
 ici, je regrette un peu de ne pas avoir eu le temps de développer la réflexion sur l'espace public, je pense que ce sera pour une prochaine communication.
@@ -406,7 +406,7 @@ On voit bien la tension entre les différentes temporalités et matérialités :
 * la temporalité et la matérialité d'un article
 * les temporalités et matérialités des différentes formes d'échanges: tchat, email, au café, annotations, évaluations d'articles, etc.
 
-Fluidifier tout en cristallisant, il y a là une alchimie très fine, un dosage du temps et des formes qui reste à trouver.
+Fluidifier tout en cristallisant, il y a là une alchimie très fine, une potion magique peut-être ?, un dosage du temps et des formes qui reste à trouver.
 
 [voir l'entretien avec Jean-Claude Guédon](http://nicolassauret.net/carnet/2017/04/12/entretien-avec-jean-claude-guedon-on-crystal-of-knowledge/)
 
@@ -432,7 +432,10 @@ mais aussi :
   * les personnes impliquées dans la conversation
   * les auteurs invoqués
 
-Ce schéma est un tout premier jet, il montre simplement les éléments et les fragments constitutifs, leur éditorialisation reste encore à designer, à implémenter, à tester, et à enrichir. La question de son archivage mérite d'être posée, en lien avec son cycle de vie.
+
+Ce schéma est un tout premier jet, il ne montre pas l'écosystème de plateformes que le cristal vient moissonner, les référentiels, les dépots, les indexes, il ne montre pas les différentes API, dont l'API qui requête l'archive Sens Public des articles.
+
+Si ce schéma montre simplement les éléments et les fragments constitutifs, leur éditorialisation reste encore à designer, à implémenter, à tester, et à enrichir. La question de son archivage mérite d'être posée, en lien avec son cycle de vie, dans le sens d'une forme longue, mais longue de sa temporalité et non de sa spatialité.
 
 La dimension temporelle du flux de la discussion reste structurante, mais doit s'articuler, on l'a dit, avec une dimension spatiale, celle de l'agencement des différents fragments du cristal.
 
@@ -478,7 +481,7 @@ J'en profite pour évoquer les initiatives comme celle-ci, de journal scientifiq
 Sur cette question précise de la fonction éditoriale, quel pourrait être le rôle éditorial de l'équipe éditoriale d'une revue-espace public ? Est-elle relégué à mobiliser, notifier, modérer ?
 Est-elle légitime pour décider de la cristallisation et de la dissolution de telle ou telle problématique ? Est-elle simplement destinée à orchestrer dans le temps ces cristaux, de la même manière qu'un média couvre un sujet d'actualité ?
 
-Je termine sur ces questions ouvertes qui mériteraient davantage un atelier de travail qu'une séance de question, mais je suis ouvert pour changer le format de la journée.
+Je termine sur ces questions ouvertes qui mériteraient à ce stade de notre réflexion davantage un atelier de travail qu'une séance de question.
 
 
 
