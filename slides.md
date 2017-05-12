@@ -253,7 +253,7 @@ Dans le cadre de la chaire sur les écritures numériques, la démarche est donc
 La revue s'est créée sous l'impulsion de Gérard Wormser avec plusieurs horizons
 
 * la transdisciplinarité et approches hybrides
-* le multilinguisme et pluralité des langues, avec l'idée d'intégrer des voix et des opinions plus lointaines
+* le multilinguisme et pluralité des langues, avec l'idée de dépasser les territoires dont nous parlait Jean Claude Guédon, d'intégrer des voix et des opinions plus lointaines
 * une conscience et une réflexion sur les transformations de l'espace public, travaillé notamment par les supports d'écriture et de lecture numérique.
 
 ici, je regrette un peu de ne pas avoir eu le temps de développer la réflexion sur l'espace public, je pense que ce sera pour une prochaine communication.
@@ -406,7 +406,7 @@ On voit bien la tension entre les différentes temporalités et matérialités :
 * la temporalité et la matérialité d'un article
 * les temporalités et matérialités des différentes formes d'échanges: tchat, email, au café, annotations, évaluations d'articles, etc.
 
-Fluidifier tout en cristallisant, il y a là une alchimie très fine, un dosage du temps et des formes qui reste à trouver.
+Fluidifier tout en cristallisant, il y a là une alchimie très fine, une potion magique peut-être ?, un dosage du temps et des formes qui reste à trouver.
 
 [voir l'entretien avec Jean-Claude Guédon](http://nicolassauret.net/carnet/2017/04/12/entretien-avec-jean-claude-guedon-on-crystal-of-knowledge/)
 
